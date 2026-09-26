@@ -2,7 +2,7 @@ const { Client, RichPresence } = require('discord.js-selfbot-v13');
 const client = new Client({ checkUpdate: false });
 
 // ================== ĐIỀN TOKEN MỚI VÀO ĐÂY ==================
-const TOKEN = ''; 
+const TOKEN = 'OTYxMjcwNzExMTYxMzIzNTc0.G3oB7-.2YMxKUS825EisXFetDgw_hnEjPkEXzTAAbH1ls'; 
 const APPLICATION_ID = '1538845945700032582'; // App ID của mày
 // ===========================================================
 
